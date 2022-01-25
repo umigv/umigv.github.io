@@ -220,6 +220,7 @@ h1 {
     padding: 12px 28px;
     text-align: center;
     font-size: 26px;
+    cursor: pointer;
   }
 
   .sponsor_main {
